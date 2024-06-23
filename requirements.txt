@@ -1,0 +1,6 @@
+autopep8==1.5.7
+py4j==0.10.9.5
+pycodestyle==2.8.0
+pyspark==3.3.2
+six==1.16.0
+toml==0.10.2
